@@ -1,0 +1,68 @@
+created virtual environment CPython3.11.5.final.0-64 in 185ms
+  creator CPython3Posix(dest=/localscratch/an-blawal.642703.0/env, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/an-blawal/.local/share/virtualenv)
+    added seed packages: pip==24.1.2, setuptools==70.0.0, wheel==0.43.0
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v4, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Requirement already satisfied: pip in /localscratch/an-blawal.642703.0/env/lib/python3.11/site-packages (24.1.2)
+Looking in links: /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v4, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic, /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/pandas-2.2.1+computecanada-cp311-cp311-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic/numpy-1.26.4+computecanada-cp311-cp311-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/matplotlib-3.9.0+computecanada-cp311-cp311-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/seaborn-0.13.2+computecanada-py3-none-any.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic/scikit_learn-1.5.0+computecanada-cp311-cp311-linux_x86_64.whl
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/python_dateutil-2.9.0.post0+computecanada-py2.py3-none-any.whl (from pandas)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pytz-2024.1+computecanada-py2.py3-none-any.whl (from pandas)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/tzdata-2024.1+computecanada-py2.py3-none-any.whl (from pandas)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic/contourpy-1.2.1+computecanada-cp311-cp311-linux_x86_64.whl (from matplotlib)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/cycler-0.12.1+computecanada-py3-none-any.whl (from matplotlib)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/fonttools-4.53.0+computecanada-cp311-cp311-linux_x86_64.whl (from matplotlib)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/kiwisolver-1.4.5+computecanada-cp311-cp311-linux_x86_64.whl (from matplotlib)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/packaging-24.1+computecanada-py3-none-any.whl (from matplotlib)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/x86-64-v3/pillow-10.3.0+computecanada-cp311-cp311-linux_x86_64.whl (from matplotlib)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/pyparsing-3.1.2+computecanada-py3-none-any.whl (from matplotlib)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/gentoo2023/generic/scipy-1.13.1+computecanada-cp311-cp311-linux_x86_64.whl (from scikit-learn)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/joblib-1.4.2+computecanada-py3-none-any.whl (from scikit-learn)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/threadpoolctl-3.5.0+computecanada-py3-none-any.whl (from scikit-learn)
+Processing /cvmfs/soft.computecanada.ca/custom/python/wheelhouse/generic/six-1.16.0+computecanada-py2.py3-none-any.whl (from python-dateutil>=2.8.2->pandas)
+Installing collected packages: pytz, tzdata, threadpoolctl, six, pyparsing, pillow, packaging, numpy, kiwisolver, joblib, fonttools, cycler, scipy, python-dateutil, contourpy, scikit-learn, pandas, matplotlib, seaborn
+Successfully installed contourpy-1.2.1+computecanada cycler-0.12.1+computecanada fonttools-4.53.0+computecanada joblib-1.4.2+computecanada kiwisolver-1.4.5+computecanada matplotlib-3.9.0+computecanada numpy-1.26.4+computecanada packaging-24.1+computecanada pandas-2.2.1+computecanada pillow-10.3.0+computecanada pyparsing-3.1.2+computecanada python-dateutil-2.9.0.post0+computecanada pytz-2024.1+computecanada scikit-learn-1.5.0+computecanada scipy-1.13.1+computecanada seaborn-0.13.2+computecanada six-1.16.0+computecanada threadpoolctl-3.5.0+computecanada tzdata-2024.1+computecanada
+              Year  ...  Other.Federal.Statutes
+count  2100.000000  ...             2100.000000
+mean   2013.000000  ...              330.065238
+std       4.321523  ...             1216.995316
+min    2006.000000  ...                0.000000
+25%    2009.000000  ...                0.000000
+50%    2013.000000  ...                3.000000
+75%    2017.000000  ...               85.250000
+max    2020.000000  ...            15093.000000
+
+[8 rows x 111 columns]
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 2100 entries, 0 to 2099
+Columns: 115 entries, Year to Other.Federal.Statutes
+dtypes: float64(5), int64(106), object(4)
+memory usage: 1.8+ MB
+Year 0
+Geography 0
+Data.Type 0
+Homicide 0
+Attempted.Murder 0
+Sexual.Assault..Level.1 0
+Assault..Level.1 0
+Criminal.Harassment 0
+Uttering.Threats 0
+Root mean square is: 9.244497762933847
+
+R2 score is: 0.9804625987148656
+0.1878114669670533
+Job ID: 642703
+Cluster: siku
+User/Group: an-blawal/an-blawal
+State: COMPLETED (exit code 0)
+Cores: 1
+CPU Utilized: 00:00:20
+CPU Efficiency: 100.00% of 00:00:20 core-walltime
+Job Wall-clock time: 00:00:20
+Memory Utilized: 390.33 MB
+Memory Efficiency: 9.53% of 4.00 GB

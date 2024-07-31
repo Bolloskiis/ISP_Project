@@ -1,0 +1,181 @@
+Year,Geography,Data.Type,Homicide,Attempted.Murder,Sexual.Assault..Level.1,Assault..Level.1,Criminal.Harassment,Uttering.Threats
+2006,Newfoundland and Labrador,actual_incidents,7,5,336,3097,155,1585
+2007,Newfoundland and Labrador,actual_incidents,3,1,401,3455,172,1663
+2008,Newfoundland and Labrador,actual_incidents,5,2,416,3415,197,1768
+2009,Newfoundland and Labrador,actual_incidents,1,0,353,3520,229,1825
+2010,Newfoundland and Labrador,actual_incidents,4,2,367,3406,223,1919
+2011,Newfoundland and Labrador,actual_incidents,4,3,321,3577,209,1978
+2012,Newfoundland and Labrador,actual_incidents,3,0,368,3665,203,2013
+2013,Newfoundland and Labrador,actual_incidents,7,2,308,3328,270,1897
+2014,Newfoundland and Labrador,actual_incidents,2,1,301,2960,235,1710
+2006,Prince Edward Island,actual_incidents,1,2,60,728,88,383
+2007,Prince Edward Island,actual_incidents,0,1,73,702,79,328
+2008,Prince Edward Island,actual_incidents,2,1,77,675,99,345
+2009,Prince Edward Island,actual_incidents,0,0,62,713,114,461
+2010,Prince Edward Island,actual_incidents,0,0,61,666,98,400
+2011,Prince Edward Island,actual_incidents,1,0,74,699,125,368
+2012,Prince Edward Island,actual_incidents,0,1,73,769,110,377
+2013,Prince Edward Island,actual_incidents,1,0,84,621,71,243
+2014,Prince Edward Island,actual_incidents,3,1,59,556,75,253
+2006,Nova Scotia,actual_incidents,16,26,792,6991,499,4270
+2007,Nova Scotia,actual_incidents,13,26,696,6679,345,3706
+2008,Nova Scotia,actual_incidents,12,30,678,6505,441,3925
+2009,Nova Scotia,actual_incidents,15,38,677,6181,479,3648
+2010,Nova Scotia,actual_incidents,21,24,662,5780,551,3467
+2011,Nova Scotia,actual_incidents,22,60,686,5567,528,3075
+2012,Nova Scotia,actual_incidents,17,34,659,5284,628,2742
+2013,Nova Scotia,actual_incidents,13,61,640,4608,528,2543
+2014,Nova Scotia,actual_incidents,6,57,610,4581,531,2737
+2006,New Brunswick,actual_incidents,7,9,514,4423,507,2460
+2007,New Brunswick,actual_incidents,8,5,498,4385,467,2375
+2008,New Brunswick,actual_incidents,3,7,563,4698,596,2538
+2009,New Brunswick,actual_incidents,12,10,564,5070,611,2573
+2010,New Brunswick,actual_incidents,9,13,588,5002,662,2472
+2011,New Brunswick,actual_incidents,8,16,544,4871,712,2582
+2012,New Brunswick,actual_incidents,6,11,481,4786,683,2591
+2013,New Brunswick,actual_incidents,7,14,455,4039,595,2158
+2014,New Brunswick,actual_incidents,10,9,429,3945,556,1982
+2006,Quebec,actual_incidents,93,233,4901,30545,4959,17408
+2007,Quebec,actual_incidents,90,213,4088,29923,4380,17392
+2008,Quebec,actual_incidents,92,153,4221,31376,4220,17179
+2009,Quebec,actual_incidents,88,205,4196,31379,4338,17296
+2010,Quebec,actual_incidents,84,203,4198,30764,4379,17120
+2011,Quebec,actual_incidents,105,167,3725,30610,4665,16522
+2012,Quebec,actual_incidents,108,179,3909,31200,5079,17331
+2013,Quebec,actual_incidents,70,161,3831,30007,4831,15906
+2014,Quebec,actual_incidents,70,163,3576,29384,4645,15594
+2006,Ontario,actual_incidents,196,318,7004,55286,8673,20269
+2007,Ontario,actual_incidents,202,284,7085,53939,8564,20852
+2008,Ontario,actual_incidents,176,275,7241,53249,8711,19792
+2009,Ontario,actual_incidents,178,293,6977,51251,9225,19011
+2010,Ontario,actual_incidents,189,247,7544,50892,9626,18317
+2011,Ontario,actual_incidents,161,223,7619,50398,9666,17290
+2012,Ontario,actual_incidents,162,258,7718,48223,9728,16522
+2013,Ontario,actual_incidents,168,198,7476,45707,9421,15230
+2014,Ontario,actual_incidents,156,202,7348,44393,8421,14989
+2006,Manitoba,actual_incidents,39,24,1248,10277,347,3951
+2007,Manitoba,actual_incidents,61,41,1209,9939,257,3644
+2008,Manitoba,actual_incidents,54,36,1266,10206,326,3954
+2009,Manitoba,actual_incidents,57,27,1248,10978,266,4103
+2010,Manitoba,actual_incidents,45,26,1405,10896,426,4282
+2011,Manitoba,actual_incidents,53,33,1429,10592,334,3894
+2012,Manitoba,actual_incidents,52,22,1426,11003,322,3848
+2013,Manitoba,actual_incidents,51,29,1349,9849,345,3573
+2014,Manitoba,actual_incidents,45,19,1394,9451,227,3269
+2006,Saskatchewan,actual_incidents,42,52,1207,12236,551,3868
+2007,Saskatchewan,actual_incidents,30,41,1214,12265,513,3801
+2008,Saskatchewan,actual_incidents,30,32,1150,11975,569,3735
+2009,Saskatchewan,actual_incidents,36,29,1152,12138,528,3849
+2010,Saskatchewan,actual_incidents,34,30,1126,12390,649,3934
+2011,Saskatchewan,actual_incidents,38,29,1122,11995,622,3639
+2012,Saskatchewan,actual_incidents,29,27,1017,11533,531,3199
+2013,Saskatchewan,actual_incidents,31,26,1033,10487,544,2937
+2014,Saskatchewan,actual_incidents,24,35,1083,10277,639,3010
+2006,Alberta,actual_incidents,95,76,2129,23113,1298,7947
+2007,Alberta,actual_incidents,88,64,2234,23687,1317,8159
+2008,Alberta,actual_incidents,110,76,2404,24810,1649,9017
+2009,Alberta,actual_incidents,95,72,2204,24917,1836,9256
+2010,Alberta,actual_incidents,77,42,2638,23393,2056,8804
+2011,Alberta,actual_incidents,109,50,2709,23506,2220,8105
+2012,Alberta,actual_incidents,85,43,2809,24010,2242,8197
+2013,Alberta,actual_incidents,82,49,2727,22533,2250,7654
+2014,Alberta,actual_incidents,106,43,2766,22739,2032,7936
+2006,British Columbia,actual_incidents,108,88,3089,33002,3626,15521
+2007,British Columbia,actual_incidents,88,109,2934,31224,1988,15029
+2008,British Columbia,actual_incidents,117,101,2527,29592,1650,15535
+2009,British Columbia,actual_incidents,118,114,2557,29957,2140,15497
+2010,British Columbia,actual_incidents,83,76,2766,27750,2538,14328
+2011,British Columbia,actual_incidents,87,79,2651,26842,2542,13067
+2012,British Columbia,actual_incidents,71,88,2492,25447,2617,12321
+2013,British Columbia,actual_incidents,76,90,2361,22932,2530,10630
+2014,British Columbia,actual_incidents,89,92,2212,21516,2098,9782
+2006,Yukon,actual_incidents,0,0,57,674,14,193
+2007,Yukon,actual_incidents,2,0,53,675,16,245
+2008,Yukon,actual_incidents,3,1,50,666,24,226
+2009,Yukon,actual_incidents,2,3,71,727,13,242
+2010,Yukon,actual_incidents,1,0,66,703,22,266
+2011,Yukon,actual_incidents,0,4,62,782,16,237
+2012,Yukon,actual_incidents,0,0,73,738,16,249
+2013,Yukon,actual_incidents,0,1,74,815,45,241
+2014,Yukon,actual_incidents,3,0,75,842,53,259
+2006,Northwest Territories,actual_incidents,0,0,158,2069,69,513
+2007,Northwest Territories,actual_incidents,2,2,212,2333,55,636
+2008,Northwest Territories,actual_incidents,3,0,176,2100,47,630
+2009,Northwest Territories,actual_incidents,2,2,186,2073,56,521
+2010,Northwest Territories,actual_incidents,1,0,179,1883,58,577
+2011,Northwest Territories,actual_incidents,3,1,179,1888,88,583
+2012,Northwest Territories,actual_incidents,5,2,168,1883,61,548
+2013,Northwest Territories,actual_incidents,2,3,173,1753,76,489
+2014,Northwest Territories,actual_incidents,3,2,145,1665,76,440
+2015,Newfoundland and Labrador,actual_incidents,3,4,362,3171,329,1858
+2015,Prince Edward Island,actual_incidents,1,3,70,452,69,203
+2015,Nova Scotia,actual_incidents,12,33,652,4319,515,2436
+2015,New Brunswick,actual_incidents,11,17,412,3797,628,2078
+2015,Quebec,actual_incidents,79,204,3759,30353,4921,15477
+2015,Ontario,actual_incidents,174,252,7375,44546,8385,14978
+2015,Manitoba,actual_incidents,47,31,1320,10260,225,3212
+2015,Saskatchewan,actual_incidents,44,28,1088,10529,576,3053
+2015,Alberta,actual_incidents,133,68,2799,23137,2185,8046
+2015,British Columbia,actual_incidents,97,129,2230,22294,1991,10282
+2015,Yukon,actual_incidents,1,4,77,791,51,263
+2015,Northwest Territories,actual_incidents,5,3,161,1887,94,495
+2016,Newfoundland and Labrador,actual_incidents,7,8,301,3059,362,1745
+2016,Prince Edward Island,actual_incidents,0,0,71,493,79,226
+2016,Nova Scotia,actual_incidents,13,28,623,4207,431,2303
+2016,New Brunswick,actual_incidents,11,7,428,3793,529,1958
+2016,Quebec,actual_incidents,67,189,4335,32830,5209,15258
+2016,Ontario,actual_incidents,206,261,7434,45501,7742,14683
+2016,Manitoba,actual_incidents,42,43,1388,10961,219,3261
+2016,Saskatchewan,actual_incidents,54,65,1154,10596,557,3068
+2016,Alberta,actual_incidents,116,55,2705,22897,1990,7708
+2016,British Columbia,actual_incidents,88,119,2258,20955,1651,9497
+2016,Yukon,actual_incidents,4,2,81,790,44,254
+2016,Northwest Territories,actual_incidents,3,0,131,1944,77,544
+2017,Newfoundland and Labrador,actual_incidents,4,5,325,2998,399,1659
+2017,Prince Edward Island,actual_incidents,2,2,69,577,100,270
+2017,Nova Scotia,actual_incidents,21,27,742,4587,464,2431
+2017,New Brunswick,actual_incidents,10,6,514,4002,554,2101
+2017,Quebec,actual_incidents,93,231,5147,33502,6149,16886
+2017,Ontario,actual_incidents,197,287,8782,47488,7769,16014
+2017,Manitoba,actual_incidents,47,41,1385,11223,218,3268
+2017,Saskatchewan,actual_incidents,38,42,1132,10697,604,3125
+2017,Alberta,actual_incidents,119,60,2979,22966,1821,7636
+2017,British Columbia,actual_incidents,119,115,2686,20634,1635,8660
+2017,Yukon,actual_incidents,8,2,65,751,50,273
+2017,Northwest Territories,actual_incidents,2,1,182,2189,59,533
+2018,Newfoundland and Labrador,actual_incidents,2,4,345,2979,385,1755
+2018,Prince Edward Island,actual_incidents,0,1,105,635,73,345
+2018,Nova Scotia,actual_incidents,11,19,1034,4602,421,2416
+2018,New Brunswick,actual_incidents,13,9,550,4328,556,2254
+2018,Quebec,actual_incidents,83,186,5533,34441,5874,17332
+2018,Ontario,actual_incidents,272,378,10569,51217,8002,17933
+2018,Manitoba,actual_incidents,55,36,1459,11009,220,3324
+2018,Saskatchewan,actual_incidents,34,36,1255,10046,555,3010
+2018,Alberta,actual_incidents,81,53,3437,23485,1833,7476
+2018,British Columbia,actual_incidents,90,88,3213,22528,1619,9703
+2018,Yukon,actual_incidents,3,2,80,804,47,258
+2018,Northwest Territories,actual_incidents,6,1,162,2300,64,542
+2019,Newfoundland and Labrador,actual_incidents,5,4,388,3317,433,2071
+2019,Prince Edward Island,actual_incidents,2,0,131,727,164,426
+2019,Nova Scotia,actual_incidents,6,43,885,4970,653,3045
+2019,New Brunswick,actual_incidents,15,17,625,4986,838,2648
+2019,Quebec,actual_incidents,77,200,5848,36670,6487,18003
+2019,Ontario,actual_incidents,246,345,10822,53859,9145,19957
+2019,Manitoba,actual_incidents,72,26,1664,12048,257,3905
+2019,Saskatchewan,actual_incidents,55,69,1432,11180,616,3667
+2019,Alberta,actual_incidents,100,53,3832,24676,2209,9126
+2019,British Columbia,actual_incidents,90,100,4078,29362,2300,16685
+2019,Yukon,actual_incidents,1,1,126,1031,66,401
+2019,Northwest Territories,actual_incidents,2,1,254,2797,105,784
+2020,Newfoundland and Labrador,actual_incidents,4,1,422,3546,462,2222
+2020,Prince Edward Island,actual_incidents,1,0,113,630,188,490
+2020,Nova Scotia,actual_incidents,35,47,844,5104,738,3537
+2020,New Brunswick,actual_incidents,14,10,600,5011,866,2902
+2020,Quebec,actual_incidents,87,249,5958,35326,6646,18609
+2020,Ontario,actual_incidents,234,323,9309,48457,9626,20644
+2020,Manitoba,actual_incidents,62,19,1573,11838,254,3685
+2020,Saskatchewan,actual_incidents,60,46,1296,11108,835,4078
+2020,Alberta,actual_incidents,139,56,3420,23034,2350,9559
+2020,British Columbia,actual_incidents,98,102,3771,27352,2107,16362
+2020,Yukon,actual_incidents,0,3,116,1028,72,379
+2020,Northwest Territories,actual_incidents,6,1,244,2800,101,907
